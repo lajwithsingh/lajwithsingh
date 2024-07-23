@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Lajwith Singh 👋
 
 I'm a passionate Data Engineer with a strong background in data analytics and a love for working with cutting-edge technologies to build scalable and efficient data systems. Currently, I'm at Integreon, where I work on a variety of exciting data projects.
 
@@ -42,7 +42,7 @@ Here are some of the tools and technologies I work with:
 
 ### Programming Languages
 
-- **Python**: ![Python](https://img.shields.io/badge/Python-#306998?logo=python&logoColor=white)
+- **Python**: ![Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png?logo=python&logoColor=white)
 - **SQL**: ![SQL](https://img.shields.io/badge/SQL-#003B57?logo=sql&logoColor=white)
 
 ## 📈 GitHub Stats
